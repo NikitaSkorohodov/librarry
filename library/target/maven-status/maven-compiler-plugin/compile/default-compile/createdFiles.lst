@@ -1,0 +1,6 @@
+entity\Author.class
+entity\Reader.class
+entity\Book.class
+com\mycompany\library\Library.class
+entity\History.class
+com\mycompany\library\App.class
